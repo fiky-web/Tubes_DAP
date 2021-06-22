@@ -454,7 +454,7 @@ end;
 6: begin
   exit:=true;
   writeln('=================================');
-  writeln('|         TERIMA KASIH          |');
+  writeln('|         THANK YOU             |');
   writeln('|PROGRAM APLIKASI TELAH BERAKHIR|');
   writeln('=================================');
   
