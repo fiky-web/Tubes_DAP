@@ -114,16 +114,6 @@ begin
 
 end;
 
- procedure perkenalan;
- begin
-        writeln('================================');
-		    writeln('||Nama : DENI SAPUTRA HERMAWAN||');
-        writeln('||Kelas: IT-42-03             ||');
-        writeln('||Nim  : 1303180074           ||');
-        writeln('================================');
-        writeln;
- end;
-
 procedure judul;
 begin
   writeln('===============================================');
