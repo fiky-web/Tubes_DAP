@@ -117,8 +117,8 @@ end;
 procedure judul;
 begin
   writeln('===============================================');
-	writeln('||        USAHA KOSTAN "KOSTAN SUKA SUKA"    ||');
-	writeln('||            jl.Simcity Abadi 1             ||');
+	writeln('||        USAHA KOSTAN "KOSTAN Sukabirus"    ||');
+	writeln('||            jl. Abadi 1                    ||');
 	writeln('||                  Simcity                  ||');
 	writeln('===============================================');
         writeln;
